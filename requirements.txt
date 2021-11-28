@@ -1,6 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 
+black
 ca-certificates=2019.9.11
 certifi=2019.6.16=py37_1
 cycler=0.10.0=py_1
